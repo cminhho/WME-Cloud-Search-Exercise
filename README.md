@@ -6,6 +6,10 @@ There is a Search Interface using for search content from the local file and is 
 
 ### Requirements
 - Create a Content Connector to traverse file content on server 72.21 (This connector implements the graph traversal strategy provided by the Content Connector SDK)
+  + List the content of folders
+  + Read the content of documents
+  + Read attributes of files and folders
+  + Read permissions (ACLs) for both files and folders
 - Create a Content Connector to collect contents on db (providing later)
 - Create a Identity Connector to sync identities from omt server to GCS Identity Source
 - Provide a search interface for searching results 
