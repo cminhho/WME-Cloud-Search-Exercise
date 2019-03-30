@@ -18,6 +18,8 @@ There is a Search Interface using for search content from the local file and is 
   + Sending SQL queries to the database to retrieve records
   + Respecting Access Control Lists (ACLs)
 - Create a Identity Connector to sync identities from omt server to GCS Identity Source
+  + Retrieve all users from local identity system and send them to Google for syncing with Google identities.
+  + Retrieve all groups from local identity system and send them to Google for syncing with Google identities.
 - Provide a search interface for searching results 
 - Create a GAE application
   + Export REST APIs to manage identities and group
