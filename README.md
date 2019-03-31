@@ -1,4 +1,4 @@
-# gcs-exercise
+# FSC Exercise
 
 Creating the FSC is File Systems connector is responsible for discovering and indexing local file content with ACLs and index it into Cloud Search. Once successfully indexed, content from the local file is searchable through Search Interface.
 
@@ -11,7 +11,7 @@ There is a Search Interface using for search content from the local file and is 
 - Provide a search interface for searching results 
 - Create a GAE application
 
-### Task
+### Tasks
 - Create a Content Connector to traverse file content on local server 
   + List the content of folders
   + Read the content of documents
@@ -31,3 +31,5 @@ There is a Search Interface using for search content from the local file and is 
 - Create a GAE application
   + Export REST APIs to manage identities and group
   + A Interface to manage Group, External identities, ...
+
+### Architecture 
