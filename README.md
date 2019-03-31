@@ -9,7 +9,7 @@ There is a Search Interface using for search content from the local file and is 
 - Create a Content Connector to collect contents on db (providing later)
 - Create a Identity Connector to sync identities from omt server to GCS Identity Source
 - Provide a search interface for searching results 
-- Create a GAE application
+- Create a GAE application to manage external users and group string on Google Cloud Identiy  
 
 ### List of steps
 - Create a Content Connector to traverse file content on local server 
