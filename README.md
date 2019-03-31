@@ -11,7 +11,7 @@ There is a Search Interface using for search content from the local file and is 
 - Provide a search interface for searching results 
 - Create a GAE application
 
-### Tasks
+### List of steps
 - Create a Content Connector to traverse file content on local server 
   + List the content of folders
   + Read the content of documents
