@@ -1,6 +1,6 @@
-# FSC Exercise
+# WME Cloud Search exercise
 
-Creating the FSC is File Systems connector is responsible for discovering and indexing local file content with ACLs and index it into Cloud Search. Once successfully indexed, content from the local file is searchable through Search Interface.
+'WME Cloud Search exercise' - WME systems connector is responsible for discovering and indexing local file content with ACLs and index it into Cloud Search. Once successfully indexed, content from the local file is searchable through Search Interface.
 
 There is a Search Interface using for search content from the local file and is located in GAE/local.
 
