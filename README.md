@@ -1,10 +1,10 @@
 # WME Cloud Search exercise
 
-'WME Cloud Search exercise' - WME systems connector is responsible for discovering and indexing local file content with ACLs and index it into Cloud Search. Once successfully indexed, content from the local file is searchable through Search Interface.
+<b>'WME Cloud Search exercise'</b> - WME systems connector is responsible for discovering and indexing local file content with ACLs and index it into Cloud Search. Once successfully indexed, content from the local file is searchable through Search Interface.
 
 There is a Search Interface using for search content from the local file and is located in GAE/local.
 
-### Requirements
+## Requirements
 - Create a <b>Content Connector</b> to traverse file content on local server
 - Create a <b>Content Connector</b> to collect contents on the target database
 - Create a <b>Identity Connector</b> to sync identities from UAA server to GCS Identity Source
@@ -13,7 +13,27 @@ There is a Search Interface using for search content from the local file and is 
 (This connector implements the graph traversal strategy provided by the Content Connector SDK)
 - Create <b>WME Java SDK</b> for interacting with WME ecossystem APIs
 
-### List of steps 
+## Technologies
+Technology stack on the Cloud side
+- Content Connector SDK
+- Identity Connector SDK
+
+Technology stack on the server side
+- Spring Boot for application configuration
+- Maven configuration for building, testing and running the application
+- Spring MVC REST + Jackson
+
+Technology stack on the client side
+- Angular 7
+- Responsive Web Design with Twitter Bootstrap
+- JavaScript libraries with NPM
+
+
+## Architecture
+<img src="https://developers.google.com/cloud-search/images/architecture-overview.png?authuser=1"></img>
+
+
+## Implementation  
 - Create a <b>Content Connector</b> to traverse file content on local server 
   + Configuring the connector
   + Listing the content of folders and files
@@ -47,9 +67,5 @@ There is a Search Interface using for search content from the local file and is 
   + Create WME connection by authenticating with providing account
   + Get Memberships for Group
 
-### Architecture
-<img src="https://developers.google.com/cloud-search/images/architecture-overview.png?authuser=1"></img>
-### 
-
-### Author
+## Author
 - Chung Ho: hmchung92@gmail.com
