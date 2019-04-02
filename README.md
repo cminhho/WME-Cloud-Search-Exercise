@@ -1,6 +1,6 @@
 # WME Cloud Search exercise
 
-```The exercise is provided for trainning new team members to work with GCS.```
+```The exercise is provided for trainning new team members to work with GCS```
 
 <b>'WME Cloud Search exercise'</b> - WME systems connector is responsible for discovering and indexing local file content with ACLs and index it into Cloud Search. Once successfully indexed, content from the local file is searchable through Search Interface.
 
