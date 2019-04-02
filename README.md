@@ -19,6 +19,7 @@ There is a Search Interface using for search content from the local file and is 
 <b>Technology stack on the Cloud Connector side</b>
 - Content Connector SDK
 - Identity Connector SDK
+- Cloud Search REST API
 
 <b>Technology stack on the server side</b>
 - Spring Boot for application configuration
