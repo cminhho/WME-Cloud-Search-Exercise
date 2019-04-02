@@ -14,20 +14,23 @@ There is a Search Interface using for search content from the local file and is 
 - Create <b>WME Java SDK</b> for interacting with WME ecossystem APIs
 
 ## Technologies
-Technology stack on the Cloud side
+<b>Technology stack on the Cloud side</b>
 - Content Connector SDK
 - Identity Connector SDK
 
-Technology stack on the server side
+<b>Technology stack on the server side</b>
 - Spring Boot for application configuration
 - Maven configuration for building, testing and running the application
 - Spring MVC REST + Jackson
 
-Technology stack on the client side
+<b>Technology stack on the client side</b>
 - Angular 7
 - Responsive Web Design with Twitter Bootstrap
 - JavaScript libraries with NPM
 
+<b>Technology stack for development and production environment</b>
+- Docker
+- Full support for cloud: Google App Engine
 
 ## Architecture
 <img src="https://developers.google.com/cloud-search/images/architecture-overview.png?authuser=1"></img>
