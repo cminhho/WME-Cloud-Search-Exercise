@@ -1,5 +1,7 @@
 # WME Cloud Search exercise
 
+```The exercise is provided for trainning new team members to work with GCS.```
+
 <b>'WME Cloud Search exercise'</b> - WME systems connector is responsible for discovering and indexing local file content with ACLs and index it into Cloud Search. Once successfully indexed, content from the local file is searchable through Search Interface.
 
 There is a Search Interface using for search content from the local file and is located in GAE/local.
@@ -14,7 +16,7 @@ There is a Search Interface using for search content from the local file and is 
 - Create <b>WME Java SDK</b> for interacting with WME ecossystem APIs
 
 ## Technologies
-<b>Technology stack on the Cloud side</b>
+<b>Technology stack on the Cloud Connector side</b>
 - Content Connector SDK
 - Identity Connector SDK
 
