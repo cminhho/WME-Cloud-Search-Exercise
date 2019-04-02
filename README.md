@@ -37,7 +37,6 @@ There is a Search Interface using for search content from the local file and is 
 ## Architecture
 <img src="https://developers.google.com/cloud-search/images/architecture-overview.png?authuser=1"></img>
 
-
 ## Implementation  
 - Create a <b>Content Connector</b> to traverse file content on local server 
   + Configuring the connector
