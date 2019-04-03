@@ -14,6 +14,7 @@ There is a Search Interface using for search content from the local file and is 
 - Create a <b>Springboot GAE application</b> to manage external users and group string on Google Cloud Identiy  
 (This connector implements the graph traversal strategy provided by the Content Connector SDK)
 - Create <b>WME Java SDK</b> for interacting with WME ecossystem APIs
+- Deploy app to production server with Docker
 
 ## Technologies
 <b>Technology stack on the Cloud Connector side</b>
