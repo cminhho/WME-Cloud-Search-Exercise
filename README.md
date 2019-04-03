@@ -36,7 +36,7 @@ There is a Search Interface using for search content from the local file and is 
 - Docker
 - Full support for cloud: Google App Engine
 
-## Architecture
+## Architectural
 <img src="https://developers.google.com/cloud-search/images/architecture-overview.png?authuser=1"></img>
 
 ## Implementation  
